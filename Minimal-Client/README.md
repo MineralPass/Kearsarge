@@ -27,8 +27,7 @@ upcoming spring.
 
 The design of this client is not complete. For example,
 glut passes input to a function. Should the function
-forward the input to another object? This project is the
-natural start to game programming as there is no single
-generalized server. There are as many server models as
-there are models of computation and programming
-paradigms.
+forward the input to another object? Client programming
+is a natural start to game programming because it
+provides a way for the user to interact with the game
+state. 
